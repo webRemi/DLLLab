@@ -6,7 +6,7 @@ Use a tool from the FUSE family to deploy the DLLs (DFuse, NFuse, SFuse)
 
 ## Table
 | ID | Name | Description | System harm |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | 0 | dllwin.dll | The DLL ransomware! Deploy a ransomware and encrypt every files in the directory | Be cautious |
 | 1 | dllwin1.dll | Deploy a keylogger | OK |
 | 2 | dllwin2.dll | Deploy a clipboardlogger | OK |
