@@ -11,4 +11,5 @@ Use a tool from the FUSE family to deploy the DLLs (DFuse, NFuse, SFuse)
 | 1 | dllwin1.dll | Deploy a keylogger | OK |
 | 2 | dllwin2.dll | Deploy a clipboardlogger | OK |
 | 3 | dllwin3.dll | Spawn a reverse shell | OK |
-| 4 | xxx | In progress | xxx |
+| 4 | dllwin4.dll | In progress | xxx |
+| 5 | dllwin5.dll | Spawn a calc.exe for testing | OK |
